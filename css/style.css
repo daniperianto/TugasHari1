@@ -1,0 +1,75 @@
+.main-container {
+    margin: 90px auto;
+    width: 1000px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px 5px #cecece;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.inner-container {
+    width: 600px;
+    margin: 0px 200px 0px 200px;
+}
+
+h1 {
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.main-paragraph {
+    text-align: justify;
+}
+
+.contact {
+    background-color: black;
+    color: white;
+    font-family: Calibri, sans-serif;
+    padding: 5px 22px 8px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+.download-cv {
+    font-family: Calibri, sans-serif;
+    font-size: 20px;
+    
+}
+
+.download-icon {
+    width: 20px;
+}
+
+nav {
+    text-align: center;
+    margin: 50px 0px;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.id-card {
+    width: 300px;
+    box-shadow: 2px 2px 2px 2px #cecece;
+    margin: 0 150px;
+    padding-bottom: 5px;
+}
+
+.my-picture {
+    width: 300px;
+}
+
+.name {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', sans-serif;
+    margin: 5px;
+}
+
+.course {
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+}
+
